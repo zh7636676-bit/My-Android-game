@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="skardu_dark">#020617</color>
+    <color name="skardu_amber">#F59E0B</color>
+    <color name="skardu_yellow">#FBBF24</color>
+    <color name="skardu_cyan">#06B6D4</color>
+    <color name="skardu_rose">#F43F5E</color>
+    <color name="skardu_emerald">#10B981</color>
+</resources>
